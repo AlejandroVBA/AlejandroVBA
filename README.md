@@ -16,25 +16,5 @@ I'm a passionate **[Senior Automation Strategist]** with experience in **[VBA Cl
 
 ## Get in Touch 📬
 
-
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=alejandro-mendiola-ms-ma-182b549" target="_blank">Follow on LinkedIn</a>
-
-
+- **[LinkedIn]**([https://www.linkedin.com/in/alejandro-mendiola-ms-ma-182b549?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPi5pgeC8Rvmab2eqBavsgQ%3D%3D])
 
