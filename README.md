@@ -7,7 +7,7 @@
 I'm a passionate **[Senior Automation Strategist]** with experience in **[VBA Claims processing]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[Github]**
-- 🔭 Working on: **[RBPS, DIgital BDD, Claims Remediation, Disability Conditions/Employee Experience]**
+- 🔭 Working on: **RBPS, DIgital BDD, Claims Remediation, Disability Conditions/Employee Experience**
 - 🌍 Languages: **[Spanish]**
 - 📫 How to reach me: **[alejandro.mendiolaflores@va.gov]**
 - ⚡ Fun fact: **[I like to climb mountains]**
